@@ -1,4 +1,4 @@
-# CS571 Workshop 02
+# CS571 Workshop 04
 ## MIU Courses Review App
 Start by creating a new expo project, copy the provided components, and then start working on the requirements, you will need to add additional dependencies based on the requirements. **Check the screenshots below**.  
 * To start, install and update all dependencies.
