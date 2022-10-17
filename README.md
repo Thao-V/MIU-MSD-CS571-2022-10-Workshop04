@@ -17,10 +17,6 @@ Start by creating a new expo project, copy the provided components, and then sta
   * After the first submit, the form will persist the review details in the phone storage using `AsyncStorage`. The next time a user opens the screen, the review details will be fetched from the phone storage. Use `https://react-native-async-storage.github.io/async-storage/`. (install and use).
   * Use `import { KeyboardAwareScrollView } from 'react-native-keyboard-aware-scroll-view';` component to avoid a situation where the keyboard slides over the form element. (install and use)
   * When users click `Submit Review` display an `ActivityIndicator`, save their review details in the phone storage, and navigate back to the course details screen.
-* Optional: write an Express server to support the following API, and make necessary changes in your app to communicate with the backend server:
-    * `GET /courses`
-    * `GET /courses/:course_id`
-    * `POST /courses/:course_id/reviews`
 ## Material Bottom Tabs Navigation: https://reactnavigation.org/docs/material-bottom-tab-navigator/
 ## ActivityIndicator: https://reactnative.dev/docs/activityindicator
 ## Please refer to icons at: https://oblador.github.io/react-native-vector-icons/
