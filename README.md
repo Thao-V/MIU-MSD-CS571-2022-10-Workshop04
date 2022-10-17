@@ -22,6 +22,7 @@ Start by creating a new expo project, copy the provided components, and then sta
     * `GET /courses/:course_id`
     * `POST /courses/:course_id/reviews`
 ## Material Bottom Tabs Navigation: https://reactnavigation.org/docs/material-bottom-tab-navigator/
+## ActivityIndicator: https://reactnative.dev/docs/activityindicator
 ## Please refer to icons at: https://oblador.github.io/react-native-vector-icons/
 ## Please find screenshots for the finished application:  
 
